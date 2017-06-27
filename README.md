@@ -1,3 +1,0 @@
-# GoodGameStudio
-
-ReadMe test
